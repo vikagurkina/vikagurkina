@@ -14,7 +14,7 @@
 
 ---
 
-##технологии
+## Технологии
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-##моя статистика
+## Моя статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikagurkina&show_icons=true&theme=tokyonight"/>
