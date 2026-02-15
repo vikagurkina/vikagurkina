@@ -23,16 +23,6 @@
 
 ---
 
-## Моя статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikagurkina&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikagurkina&layout=compact&theme=tokyonight"/>
-</p>
-
 <!--
 **vikagurkina/vikagurkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
