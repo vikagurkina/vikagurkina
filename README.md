@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikagurkina&layout=compact&theme=tokyonight"/>
 </p>
 
 <!--
