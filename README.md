@@ -1,5 +1,10 @@
-<h1 align="center">Привет 👋 Я Вика</h1>
-<h3 align="center">🎓 Студентка 1 курса | Будущий разработчик чего-нибудь🤭</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=200&section=header&text=Привет%20👋%20Я%20Вика&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F78DA7&center=true&vCenter=true&width=800&lines=🎓+Студентка+1+курса;Будущий+разработчик+чего-нибудь🤭" />
+</p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyczdobWt6c2w5ZGsxb25ianAxODRvaWpzcGY2ODRvMmExdmpseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d77o7i3tHnKda/giphy.gif" width="400"/>
